@@ -1,8 +1,8 @@
-# Schedulatore to DocFinance Integration Script  
+# Schedulatore Cariparma / Crédit Agricole Bank to DocFinance Integration Script  
   
-(IT) Script Python per connettere "DocFinance (tm)" con "Schedulatore (tm)". Monitora cartelle, sposta file, utilizza watchdog, e può essere un servizio Windows con NSSM.
+(IT) Script Python per connettere "DocFinance (tm)" con "Schedulatore (tm)" Cariparma / Crédit Agricole Bank. Monitora cartelle, sposta file, utilizza watchdog, e può essere un servizio Windows con NSSM.
   
-(EN) Python script to connect "DocFinance (tm)" with "Schedulatore (tm)". Monitors folders, moves files based on prefixes/extensions, uses watchdog, and can be a Windows service via NSSM.  
+(EN) Python script to connect "DocFinance (tm)" with "Schedulatore (tm)" Cariparma / Crédit Agricole Bank. Monitors folders, moves files based on prefixes/extensions, uses watchdog, and can be a Windows service via NSSM.  
     
 **Italian:**
   
