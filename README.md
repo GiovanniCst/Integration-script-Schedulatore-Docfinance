@@ -51,7 +51,7 @@ Disponibile su licenza.
 
 ## Contatti
 
-Per qualsiasi richiesta, contatta l'autore scrivendo a: g punto costantini at gmail punto com
+Per qualsiasi richiesta, contatta l'autore scrivendo a: g punto costantini chiocciola gmail punto com
 
   
 **English:**
