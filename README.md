@@ -1,9 +1,9 @@
 # Schedulatore to DocFinance Integration Script  
-
-Python script to connect "DocFinance (tm)" with "Schedulatore (tm)". Monitors folders, moves files based on prefixes/extensions, uses watchdog, and can be a Windows service via NSSM.  
-    
-Script Python per connettere "DocFinance (tm)" con "Schedulatore (tm)". Monitora cartelle, sposta file, utilizza watchdog, e può essere un servizio Windows con NSSM.
   
+(IT) Script Python per connettere "DocFinance (tm)" con "Schedulatore (tm)". Monitora cartelle, sposta file, utilizza watchdog, e può essere un servizio Windows con NSSM.
+  
+(EN) Python script to connect "DocFinance (tm)" with "Schedulatore (tm)". Monitors folders, moves files based on prefixes/extensions, uses watchdog, and can be a Windows service via NSSM.  
+    
 **Italian:**
   
 # Script di Integrazione tra DocFinance e Schedulatore
