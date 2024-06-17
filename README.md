@@ -1,14 +1,14 @@
 # Schedulatore Cariparma / Crédit Agricole Bank to DocFinance Integration Script  
   
-(IT) Script Python per connettere "DocFinance (tm)" con "Schedulatore (tm)" Cariparma / Crédit Agricole Bank. Monitora cartelle, sposta file, utilizza watchdog, e può essere un servizio Windows con NSSM.
+(IT) Script Python per connettere DocFinance™ con Schedulatore™ Cariparma / Crédit Agricole Bank. Monitora cartelle, sposta file, utilizza watchdog, e può essere un servizio Windows con NSSM.
   
-(EN) Python script to connect "DocFinance (tm)" with "Schedulatore (tm)" Cariparma / Crédit Agricole Bank. Monitors folders, moves files based on prefixes/extensions, uses watchdog, and can be a Windows service via NSSM.  
+(EN) Python script to connect DocFinance™ with Schedulatore™ Cariparma / Crédit Agricole Bank. Monitors folders, moves files based on prefixes/extensions, uses watchdog, and can be a Windows service via NSSM.  
     
 **Italian:**
   
 # Script di Integrazione tra DocFinance e Schedulatore Cariparma / Crédit Agricole Bank
 
-Questo repository contiene uno script Python originale progettato da Giovanni Costantini, Pesaro per connettere il software "DocFinance (tm)" di DocFinance S.r.l. (Reggio Emilia, Italia, https://www.docfinance.net/) con il software "Schedulatore (tm)" di Cariparma / Crédit Agricole Bank. Questa integrazione colma il divario tra questi due sistemi, che non sono integrati nativamente.
+Questo repository contiene uno script Python originale progettato da Giovanni Costantini, Pesaro per connettere il software DocFinance™ di DocFinance S.r.l. (Reggio Emilia, Italia, https://www.docfinance.net/) con il software Schedulatore™ di Cariparma / Crédit Agricole Bank. Questa integrazione colma il divario tra questi due sistemi, che non sono integrati nativamente.
 
 ## Funzionalità
 
@@ -47,7 +47,7 @@ Per configurare lo script come servizio su Windows Server utilizzando NSSM:
    ```
 
 ## Licenza
-Disponibile su licenza.
+Software proprietario, disponibile su licenza.
 
 ## Contatti
 
@@ -58,7 +58,7 @@ Per qualsiasi richiesta, contatta l'autore scrivendo a: g punto costantini chioc
 
 # Integration Script between DocFinance and Schedulatore Cariparma / Crédit Agricole Bank
   
-This repository contains an original Python script by Giovanni Costantini, Pesaro, designed to connect the "DocFinance (tm)" software by DocFinance S.r.l. (Reggio Emilia, Italy, https://www.docfinance.net/) with the "Schedulatore (tm)" software by Cariparma / Crédit Agricole Bank. This integration bridges the gap between these two systems, which are not natively integrated.
+This repository contains an original Python script by Giovanni Costantini, Pesaro, designed to connect the DocFinance™ software by DocFinance S.r.l. (Reggio Emilia, Italy, https://www.docfinance.net/) with the Schedulatore™ software by Cariparma / Crédit Agricole Bank. This integration bridges the gap between these two systems, which are not natively integrated.
 
 ## Features
 
@@ -97,7 +97,7 @@ To configure the script as a service on Windows Server using NSSM:
    ```
 
 ## License
-Available under license
+Proprietary software, available under license
 
 ## Contatti
 
