@@ -51,7 +51,7 @@ Disponibile su licenza.
 
 ## Contatti
 
-Per qualsiasi richiesta, contatta l'autore
+Per qualsiasi richiesta, contatta l'autore scrivendo a: g punto costantini at gmail punto com
 
   
 **English:**
@@ -99,6 +99,6 @@ Available under license
 
 ## Contatti
 
-For further info, contact the author
+For further info, contact the author at g dot costantini at gmail dot com
 
 
