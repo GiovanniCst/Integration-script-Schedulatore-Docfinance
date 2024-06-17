@@ -6,7 +6,7 @@
     
 **Italian:**
   
-# Script di Integrazione tra DocFinance e Schedulatore
+# Script di Integrazione tra DocFinance e Schedulatore Cariparma / Crédit Agricole Bank
 
 Questo repository contiene uno script Python originale progettato da Giovanni Costantini, Pesaro per connettere il software "DocFinance (tm)" di DocFinance S.r.l. (Reggio Emilia, Italia, https://www.docfinance.net/) con il software "Schedulatore (tm)" di Cariparma / Crédit Agricole Bank. Questa integrazione colma il divario tra questi due sistemi, che non sono integrati nativamente.
 
@@ -55,6 +55,8 @@ Per qualsiasi richiesta, contatta l'autore scrivendo a: g punto costantini at gm
 
   
 **English:**
+
+# Integration Script between DocFinance and Schedulatore Cariparma / Crédit Agricole Bank
   
 This repository contains an original Python script by Giovanni Costantini, Pesaro, designed to connect the "DocFinance (tm)" software by DocFinance S.r.l. (Reggio Emilia, Italy, https://www.docfinance.net/) with the "Schedulatore (tm)" software by Cariparma / Crédit Agricole Bank. This integration bridges the gap between these two systems, which are not natively integrated.
 
