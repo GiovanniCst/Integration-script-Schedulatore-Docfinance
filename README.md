@@ -56,7 +56,7 @@ Per configurare l'interfaccia web:
     pip install flask
     ```
 2.  Esegui lo script `install_web_service.py` per installare l'interfaccia web come servizio Windows.
-3.  Accedi all'interfaccia web in un browser all'indirizzo `http://localhost:5000`.
+3.  Accedi all'interfaccia web in un browser all'indirizzo `http://localhost:9999`.
 
 ## Configurazione
 
@@ -138,7 +138,7 @@ To set up the web interface:
     pip install flask
     ```
 2.  Run the `install_web_service.py` script to install the web interface as a Windows service.
-3.  Access the web interface in a browser at `http://localhost:5000`.
+3.  Access the web interface in a browser at `http://localhost:9999`.
 
 ## Configuration
 
